@@ -1,10 +1,10 @@
 
 # Ex 1B:Datatypes-Boolean Expression Evaluation in Python
 
-## 🎯 Aim
+##  Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
-## 🧠 Algorithm
+##  Algorithm
 1. Set variable `a` to the result of the expression `0 == True`.
 2. Set variable `b` to the result of the expression `False == False`.
 3. Set variable `c` to the result of the expression `True + True`.
@@ -14,7 +14,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 7. Print the value of `c` with the label "c:".
 8. Print the value of `d` with the label "d:".
 
-## 💻 Program
+##  Program
 ```
 a = (0 == True)
 b = (False == False)
@@ -31,3 +31,4 @@ print("d:", d)
 <img width="490" height="440" alt="image" src="https://github.com/user-attachments/assets/052faab7-c93b-4b3e-8057-b795ff14ad7b" />
 
 ## Result
+The program was implemented sucessfully
